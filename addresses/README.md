@@ -4,8 +4,8 @@
 
 | Contract | Address | Explorer |
 |---|---|---|
-| ReputationRegistry | 0xd74C13B288c54964d68b8aE5859c6d5A94757c19 | [Basescan](https://basescan.org/address/0xd74C13B288c54964d68b8aE5859c6d5A94757c19) |
-| ValidationRegistry | 0xEd5a539BDDDfEedA7d84fA3cb38DdA451995423c | [Basescan](https://basescan.org/address/0xEd5a539BDDDfEedA7d84fA3cb38DdA451995423c) |
+| ReputationRegistry | 0xb1E55ED55ac94dB9a725D6263b15B286a82f0f46 | [Basescan](https://basescan.org/address/0xb1E55ED55ac94dB9a725D6263b15B286a82f0f46) |
+| ValidationRegistry | 0xB1e55EDC8fFdd6f16e6600dEb05d364a88152D3A | [Basescan](https://basescan.org/address/0xB1e55EDC8fFdd6f16e6600dEb05d364a88152D3A) |
 
 ## Identity Registry (external — do not deploy)
 
@@ -19,4 +19,4 @@
 |---|---|
 | agentId | 28362 |
 | Registration TX | 0x8f94fb5a78db05a5a53326f40e5643127a99866a450213580fd156e2b987deee |
-| Oracle Wallet | 0x0bF2A0900806d40aE8fEE5E9f0F243d2D16a7758 |
+| Oracle Wallet | 0xB1e55EdD3176Ce9C9aF28F15b79e0c0eb8Fe51AA |
